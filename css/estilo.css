@@ -1296,7 +1296,11 @@ footer article nav a :hover{
     header article {width: 60%;}
     main section#banner {width: 100%;}
     main section#banner article a {margin: 0px 0 0 34%;}
+    main section#banner-3 article h1 {font-size: 1.8em;}
+    main section#banner-4 article h1 {font-size: 1.8em;padding: 19px 0 0 0;}
+    main section#banner-2 article h1 {font-size: 1.8em;}
     main section#perfil {width: 500px; }
+    main section#perfil article figure a {font-size: 1em;}
     main section#servicios {width: 500px;}
     main section#portafolio {width: 90%px;}
     main section#contactame {width: 100%;}
